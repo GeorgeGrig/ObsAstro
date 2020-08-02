@@ -1,0 +1,2 @@
+# ObsAstro
+Observational astronomy course
